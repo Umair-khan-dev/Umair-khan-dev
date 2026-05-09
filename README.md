@@ -5,8 +5,11 @@
 
 🔭 I’m currently working on **Full Stack Development**
 
-🌐 All of my projects are available at  
-👉 https://your-portfolio-link.vercel.app/
+🌐 My Portfolio Website  
+👉 https://portfolio-umairkhan.netlify.app/
+
+💻 All of my projects are available at  
+👉 https://app.netlify.com/teams/umairkhanuk0345/projects/
 
 📫 How to reach me:  
 👉 umairkhanuk0345@gmail.com
